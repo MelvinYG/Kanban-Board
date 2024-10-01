@@ -1,0 +1,18 @@
+.user_img_container{
+    position: relative;
+}
+
+.user-availability{
+    position: absolute;
+    bottom: 1px;
+    right: -1px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #fff;
+    background-color: #bdc3c7;
+    border-radius: 50%;
+}
+
+.available {
+    background-color: #e7b110;
+}
